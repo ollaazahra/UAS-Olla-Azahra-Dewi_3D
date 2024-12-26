@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "676cab6b204f88b5e34eeb87"
+  },
+  "BoatId": 23456,
+  "name": "pinisi",
+  "type": "kapal modern",
+  "kapasitas": "30 orang",
+  "rentalprice": 5000000,
+  "Status": "Available"
+}]

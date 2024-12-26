@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "676cac35204f88b5e34eeb88"
+  },
+  "BookingId": "prime12",
+  "UserId": "BoatsPinisi",
+  "BookingDate": "10 agustus 2023",
+  "StartDate": "15 agustus 2023",
+  "EndDate": "19 Agustus 2023",
+  "TotalPrice": "5000000",
+  "BookingStatus": "Confirmed"
+}]

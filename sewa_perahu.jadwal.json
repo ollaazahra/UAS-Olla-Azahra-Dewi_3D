@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "676cad73204f88b5e34eeb8a"
+  },
+  "ScheduleId": "Viryjins1",
+  "BoatId": 23456,
+  "Date": "15 agutus 2023",
+  "StartTime": "15 agustus 2023",
+  "endtime": "19 agustus 2023",
+  "status": "Booked"
+}]

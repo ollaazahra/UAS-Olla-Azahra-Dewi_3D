@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "676caaae204f88b5e34eeb86"
+  },
+  "UserId": "HamadaAsahi",
+  "Name": "Asahi",
+  "Email": "asahihamada@gmail.com",
+  "Phone": 897654312,
+  "Password": "raspberrry",
+  "Role": "customer",
+  "CreatedDate": "12 mei 2023",
+  "status": "Aktif"
+}]

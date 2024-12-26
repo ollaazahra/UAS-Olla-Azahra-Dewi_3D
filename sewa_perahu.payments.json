@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "676cace2204f88b5e34eeb89"
+  },
+  "PaymentId": "Prime12",
+  "BookingId": "Viryjins1",
+  "PaymentDate": "10 agustus 2023",
+  "paymentmethod": "Card",
+  "amount": 5000000,
+  "PaymentStatus": "Paid"
+}]
